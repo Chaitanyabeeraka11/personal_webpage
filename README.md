@@ -1,4 +1,4 @@
-# personal_webpage
+# Personal_webpage
 Hello there! This is CHAITANYA BEERAKA, 
 
 I designed this website on my own intrest. I am intrested in web designing, Photography.
